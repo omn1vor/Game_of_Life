@@ -1,2 +1,2 @@
 # Game of Life
-Swing-based implemetation of Game of Life (from hyperskill.org projects) 
+Swing-based implementation of Game of Life (from hyperskill.org projects) 
